@@ -1,4 +1,4 @@
-# Cruise-Performance
+# Cruise Performance
 Aviation Apps presents the Cruise Performance application.
 
 Visit Aviation Apps at: http://aviationapps.myfreesites.net
